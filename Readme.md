@@ -15,7 +15,7 @@
    Version 2.0 adds font-resizing enhancements contributed
    by Wolfgang Kleinrath, office@kleinrath.at
 
-   Copyright © 1999 by David A. Price
+   Copyright Â© 1999 by David A. Price
    http://www.compcreate.com
    This file may be redistributed freely if not altered
    Suggestions are welcome
@@ -25,8 +25,7 @@
    II.   USAGE INSTRUCTIONS
 
    The TFormResizer component resizes all of the components on a
-   form when the form size changes.  It has been tested with
-   Delphi 1.0, 2.0, and 3, and should be compatible with Delphi 4.
+   form when the form size changes.  It has been tested until Delphi 10.3.3.
    To use TFormResizer, do the following three steps:
 
    1.  Add a TFormResizer component to the form.
